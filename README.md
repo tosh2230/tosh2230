@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![Twitter Badge](https://img.shields.io/badge/-tosh2230-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tosh2230/)](https://www.twitter.com/tosh2230/) 
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tosh223&show_icons=true&include_all_commits=true)](https://github.com/tosh223/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosh223)](https://github.com/tosh223/github-readme-stats)
+
 
 <!--
 **tosh223/tosh223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,6 @@
 ### Hello there!👋 I'm tosh2230 :smile:
 
 - I'm a Data Engineer from Japan.
-- I’m currently working at [GMO Pepabo, Inc.](https://pepabo.com/en/)
-- 💬 Ask me about anything and everything!
 
 [![Twitter Badge](https://img.shields.io/badge/-tosh2230-00acee?style=simple&logo=twitter&logoColor=white&link=https://twitter.com/tosh2230/)](https://www.twitter.com/tosh2230/)
 [![Speaker Deck Badge](https://img.shields.io/badge/-tosh2230-darkgreen?style=simple&logo=speakerdeck&logoColor=white&link=https://speakerdeck.com/tosh2230/)](https://speakerdeck.com/tosh2230/)
